@@ -5,7 +5,7 @@ require 'graphaeljs/rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "graphaeljs-rails"
-  spec.version       = Graphael::Rails::VERSION
+  spec.version       = Graphaeljs::Rails::VERSION
   spec.authors       = ["Vincent Pochet"]
   spec.email         = ["vincent.pochet@gmail.com"]
   spec.description   = %q{gRaphael packaged for Rails assets pipeline}
