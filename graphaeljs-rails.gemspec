@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["vincent.pochet@gmail.com"]
   spec.description   = %q{gRaphael packaged for Rails assets pipeline}
   spec.summary       = %q{gRaphael packaged for Rails assets pipeline}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/vincent-pochet/graphaeljs-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
